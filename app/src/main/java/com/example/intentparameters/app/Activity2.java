@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class Activity2 extends Activity {
 
-    String testo;
+    String testo = "buelazzo";
     int numero;
 
     @Override
